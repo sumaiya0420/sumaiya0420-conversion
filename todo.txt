@@ -1,3 +1,4 @@
 Conversion stuff:
 - Dollars to cents
 - Liters to gallons
+- Degrees to Radians
