@@ -1,0 +1,2 @@
+Conversion stuff:
+- Dollars to cents
